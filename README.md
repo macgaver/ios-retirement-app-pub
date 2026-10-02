@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="AppStore/readme/logo.png" width="180" alt="Retirement ChezMoi logo"/>
+<img src="readme/logo.png" width="180" alt="Retirement ChezMoi logo"/>
 
 # Retirement ChezMoi · Retraite ChezMoi
 
@@ -11,9 +11,9 @@ iPhone · iPad · Mac
 
 <br/>
 
-<a href="MARKETING-EN.md"><img src="AppStore/readme/button-en.png" width="340" alt="English: see the product tour"/></a>
+<a href="MARKETING-EN.md"><img src="readme/button-en.png" width="340" alt="English: see the product tour"/></a>
 &nbsp;&nbsp;
-<a href="MARKETING-FR.md"><img src="AppStore/readme/button-fr.png" width="340" alt="Français : voir la présentation"/></a>
+<a href="MARKETING-FR.md"><img src="readme/button-fr.png" width="340" alt="Français : voir la présentation"/></a>
 
 <br/><br/>
 
